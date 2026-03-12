@@ -5,7 +5,6 @@ Modern NLP systems rely on text embeddings to represent meaning for tasks like s
 The paper introduces FinMTEB, a benchmark specifically designed to evaluate embeddings on financial text.
 
 Key characteristics:
-
 <br>64 finance-specific datasets
 <br>7 embedding task types
 <br>Text sources include:
@@ -16,7 +15,6 @@ Key characteristics:
 <br>Earnings call transcripts
 
 Supports English and Chinese
-
 <br>The benchmark evaluates embeddings across common NLP tasks:
 
 <brClassification – categorize financial documents
