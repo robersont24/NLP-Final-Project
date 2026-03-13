@@ -13,10 +13,9 @@ Key characteristics:
 <br>ESG reports
 <br>Regulatory filings
 <br>Earnings call transcripts
+<br>Supports English and Chinese
 
-Supports English and Chinese
 <br>The benchmark evaluates embeddings across common NLP tasks:
-
 <brClassification – categorize financial documents
 <br>Clustering – group similar financial texts
 <br>Retrieval – find relevant financial documents
