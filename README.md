@@ -8,6 +8,7 @@ Key characteristics:
 
 <br>64 finance-specific datasets
 <br>7 embedding task types
+<br>Supports English and Chinese
 
 <br>Text sources include:
 <br>Financial news
@@ -16,10 +17,8 @@ Key characteristics:
 <br>Regulatory filings
 <br>Earnings call transcripts
 
-<br>Supports English and Chinese
 
 <br>The benchmark evaluates embeddings across common NLP tasks:
-
 <br>Classification – categorize financial documents
 <br>Clustering – group similar financial texts
 <br>Retrieval – find relevant financial documents
