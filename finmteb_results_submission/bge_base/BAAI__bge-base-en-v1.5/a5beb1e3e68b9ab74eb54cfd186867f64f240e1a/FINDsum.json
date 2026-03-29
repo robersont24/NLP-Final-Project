@@ -1,0 +1,32 @@
+{
+  "dataset_revision": "0ca87ef0286fc1451841761a684548dc1ca36070",
+  "evaluation_time": 25.490225791931152,
+  "kg_co2_emissions": null,
+  "mteb_version": "1.12.49",
+  "scores": {
+    "test": [
+      {
+        "cosine_pearson": 0.345564218580547,
+        "cosine_spearman": 0.3523101106565365,
+        "euclidean_pearson": 0.35281753561093243,
+        "euclidean_spearman": 0.3523101106565365,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ],
+        "main_score": 0.3523101106565365,
+        "manhattan_pearson": 0.35123273106192465,
+        "manhattan_spearman": 0.34935294090591484,
+        "pearson": [
+          0.3455641942984199,
+          4.457223866675533e-57
+        ],
+        "spearman": [
+          0.3523083716564666,
+          2.090577197684905e-59
+        ]
+      }
+    ]
+  },
+  "task_name": "FINDsum"
+}

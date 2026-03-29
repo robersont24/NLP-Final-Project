@@ -1,0 +1,32 @@
+{
+  "dataset_revision": "3a6eaec26efc16f5668d0c1511b4309152998466",
+  "evaluation_time": 54.5587522983551,
+  "kg_co2_emissions": null,
+  "mteb_version": "1.12.49",
+  "scores": {
+    "test": [
+      {
+        "cosine_pearson": 0.8582789571634966,
+        "cosine_spearman": 0.8382504339832987,
+        "euclidean_pearson": 0.8408329540508286,
+        "euclidean_spearman": 0.8382504339832987,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ],
+        "main_score": 0.8382504339832987,
+        "manhattan_pearson": 0.8408122025988397,
+        "manhattan_spearman": 0.8387215558075062,
+        "pearson": [
+          0.8582789465730948,
+          2.092070591402429e-291
+        ],
+        "spearman": [
+          0.8382504339832987,
+          4.2595279331376455e-265
+        ]
+      }
+    ]
+  },
+  "task_name": "FNS2022sum"
+}

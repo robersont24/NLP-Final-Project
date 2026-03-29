@@ -1,0 +1,68 @@
+{
+  "dataset_revision": "afa5a612a01b9c0a8058fba44a3bdf66173583eb",
+  "evaluation_time": 7.718643665313721,
+  "kg_co2_emissions": null,
+  "mteb_version": "1.12.49",
+  "scores": {
+    "test": [
+      {
+        "cosine": {
+          "accuracy": 0.5880169124471486,
+          "accuracy_threshold": 0.789181113243103,
+          "ap": 0.6484472289314405,
+          "f1": 0.7054817386659543,
+          "f1_threshold": 0.683875322341919,
+          "precision": 0.54508873297565,
+          "recall": 0.9996215704824977
+        },
+        "dot": {
+          "accuracy": 0.5880169124471486,
+          "accuracy_threshold": 0.7891811728477478,
+          "ap": 0.6484470478624849,
+          "f1": 0.7054817386659543,
+          "f1_threshold": 0.683875322341919,
+          "precision": 0.54508873297565,
+          "recall": 0.9996215704824977
+        },
+        "euclidean": {
+          "accuracy": 0.5880169124471486,
+          "accuracy_threshold": 0.6493363380432129,
+          "ap": 0.6484472563759851,
+          "f1": 0.7054817386659543,
+          "f1_threshold": 0.7951333522796631,
+          "precision": 0.54508873297565,
+          "recall": 0.9996215704824977
+        },
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ],
+        "main_score": 0.6484472563759851,
+        "manhattan": {
+          "accuracy": 0.5876044137362071,
+          "accuracy_threshold": 14.259458541870117,
+          "ap": 0.6472739586550337,
+          "f1": 0.7054739652870494,
+          "f1_threshold": 17.81100845336914,
+          "precision": 0.5450232078390923,
+          "recall": 0.9998107852412488
+        },
+        "max": {
+          "accuracy": 0.5880169124471486,
+          "ap": 0.6484472563759851,
+          "f1": 0.7054817386659543
+        },
+        "similarity": {
+          "accuracy": 0.5880169124471486,
+          "accuracy_threshold": 0.7891812324523926,
+          "ap": 0.6484469782293663,
+          "f1": 0.7054817386659543,
+          "f1_threshold": 0.683875322341919,
+          "precision": 0.54508873297565,
+          "recall": 0.9996215704824977
+        }
+      }
+    ]
+  },
+  "task_name": "HeadlinePDUPairClassification"
+}

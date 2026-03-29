@@ -1,0 +1,68 @@
+{
+  "dataset_revision": "ad0150ed63940e88846659e46be5138aa0db6c85",
+  "evaluation_time": 7.4358086585998535,
+  "kg_co2_emissions": null,
+  "mteb_version": "1.12.49",
+  "scores": {
+    "test": [
+      {
+        "cosine": {
+          "accuracy": 0.6198760465369142,
+          "accuracy_threshold": 0.6017798185348511,
+          "ap": 0.7073694663521246,
+          "f1": 0.7299723756906078,
+          "f1_threshold": 0.3433244526386261,
+          "precision": 0.5747688961392061,
+          "recall": 1.0
+        },
+        "dot": {
+          "accuracy": 0.6198760465369142,
+          "accuracy_threshold": 0.6017798185348511,
+          "ap": 0.7073692992565941,
+          "f1": 0.7299723756906078,
+          "f1_threshold": 0.3433244824409485,
+          "precision": 0.5747688961392061,
+          "recall": 1.0
+        },
+        "euclidean": {
+          "accuracy": 0.6198760465369142,
+          "accuracy_threshold": 0.8924350738525391,
+          "ap": 0.707369487281561,
+          "f1": 0.7299723756906078,
+          "f1_threshold": 1.146012306213379,
+          "precision": 0.5747688961392061,
+          "recall": 1.0
+        },
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ],
+        "main_score": 0.707369487281561,
+        "manhattan": {
+          "accuracy": 0.6196585843209742,
+          "accuracy_threshold": 19.77121353149414,
+          "ap": 0.7065176539705406,
+          "f1": 0.7300227916292562,
+          "f1_threshold": 25.156692504882812,
+          "precision": 0.5748314117902981,
+          "recall": 1.0
+        },
+        "max": {
+          "accuracy": 0.6198760465369142,
+          "ap": 0.707369487281561,
+          "f1": 0.7300227916292562
+        },
+        "similarity": {
+          "accuracy": 0.6198760465369142,
+          "accuracy_threshold": 0.6017799377441406,
+          "ap": 0.7073694212054665,
+          "f1": 0.7299723756906078,
+          "f1_threshold": 0.34332454204559326,
+          "precision": 0.5747688961392061,
+          "recall": 1.0
+        }
+      }
+    ]
+  },
+  "task_name": "HeadlinePDDPairClassification"
+}

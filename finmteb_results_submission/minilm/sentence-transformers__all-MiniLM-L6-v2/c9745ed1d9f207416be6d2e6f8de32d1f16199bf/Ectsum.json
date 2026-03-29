@@ -1,0 +1,32 @@
+{
+  "dataset_revision": "036a3cbc49ce9e77af1832693a32bfdf6207bb57",
+  "evaluation_time": 3.5118772983551025,
+  "kg_co2_emissions": null,
+  "mteb_version": "1.12.49",
+  "scores": {
+    "test": [
+      {
+        "cosine_pearson": 0.08821790290143591,
+        "cosine_spearman": 0.0777925785208165,
+        "euclidean_pearson": 0.09376786463253717,
+        "euclidean_spearman": 0.0777925785208165,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ],
+        "main_score": 0.0777925785208165,
+        "manhattan_pearson": 0.09716622870378121,
+        "manhattan_spearman": 0.08296649762004792,
+        "pearson": [
+          0.08821790193848739,
+          0.005244002139590128
+        ],
+        "spearman": [
+          0.07779257875419447,
+          0.013867775793340056
+        ]
+      }
+    ]
+  },
+  "task_name": "Ectsum"
+}

@@ -1,0 +1,68 @@
+{
+  "dataset_revision": "afa5a612a01b9c0a8058fba44a3bdf66173583eb",
+  "evaluation_time": 7.505350589752197,
+  "kg_co2_emissions": null,
+  "mteb_version": "1.12.49",
+  "scores": {
+    "test": [
+      {
+        "cosine": {
+          "accuracy": 0.5965762606991853,
+          "accuracy_threshold": 0.6115080714225769,
+          "ap": 0.6646229015247904,
+          "f1": 0.7054268740404511,
+          "f1_threshold": 0.32573676109313965,
+          "precision": 0.54496699669967,
+          "recall": 0.9998107852412488
+        },
+        "dot": {
+          "accuracy": 0.5965762606991853,
+          "accuracy_threshold": 0.6115081310272217,
+          "ap": 0.6646227495846155,
+          "f1": 0.7054268740404511,
+          "f1_threshold": 0.32573676109313965,
+          "precision": 0.54496699669967,
+          "recall": 0.9998107852412488
+        },
+        "euclidean": {
+          "accuracy": 0.5965762606991853,
+          "accuracy_threshold": 0.881466805934906,
+          "ap": 0.6646228783813968,
+          "f1": 0.7054268740404511,
+          "f1_threshold": 1.1612577438354492,
+          "precision": 0.54496699669967,
+          "recall": 0.9998107852412488
+        },
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ],
+        "main_score": 0.6646229015247904,
+        "manhattan": {
+          "accuracy": 0.5945137671444777,
+          "accuracy_threshold": 19.136768341064453,
+          "ap": 0.6627493251168086,
+          "f1": 0.7054268740404511,
+          "f1_threshold": 25.635513305664062,
+          "precision": 0.54496699669967,
+          "recall": 0.9998107852412488
+        },
+        "max": {
+          "accuracy": 0.5965762606991853,
+          "ap": 0.6646229015247904,
+          "f1": 0.7054268740404511
+        },
+        "similarity": {
+          "accuracy": 0.5965762606991853,
+          "accuracy_threshold": 0.6115082502365112,
+          "ap": 0.6646226253089076,
+          "f1": 0.7054268740404511,
+          "f1_threshold": 0.3257368206977844,
+          "precision": 0.54496699669967,
+          "recall": 0.9998107852412488
+        }
+      }
+    ]
+  },
+  "task_name": "HeadlineACPairClassification"
+}
